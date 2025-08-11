@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio 관련 파일 제외
+.vs/
+*.suo
+*.user
+*.cache
+*.VC.db
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.log
+
+# 빌드 결과물 제외
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+
+# 기타 환경설정 파일 제외
+*.swp
+*.bak
+*.tmp
